@@ -1,4 +1,5 @@
 # Digger Demo
+# Digger Demo
 
 A demo repository for [Digger](https://github.com/diggerhq/digger) - an open-source alternative to Terraform Cloud
 
