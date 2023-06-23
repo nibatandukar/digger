@@ -1,10 +1,6 @@
 provider "aws"  {
  region = "ap-south-1"
-
-
 }
-
-
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 
